@@ -1,7 +1,12 @@
 "#openrtc" 
 
 
-<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+
+
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
   <td width="142" valign="top" style="width:106.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span style="font-family:宋体;mso-ascii-font-family:Calibri;
@@ -286,4 +291,5 @@
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">摄像头输入接口限制</span></p>
   </td>
  </tr>
-</tbody>
+</tbody></table>
+
